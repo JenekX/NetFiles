@@ -1,0 +1,9 @@
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.pdb
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\obj\x86\Debug\NetFilesService.exe
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\obj\x86\Debug\NetFilesService.pdb
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\obj\x86\Debug\NetFiles.Service.ProjectInstaller.resources
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\NetFilesService\obj\x86\Debug\NetFiles.Service.ProjectService.resources

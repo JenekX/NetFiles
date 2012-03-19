@@ -1,0 +1,316 @@
+﻿Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Attempt to stop service NetFilesService.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Attempt to stop service NetFilesService.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Creating EventLog source NetFilesService in log Application...
+Rolling back assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Restoring event log to previous state for source NetFilesService.
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Attempt to stop service NetFilesService.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Creating EventLog source NetFilesService in log Application...
+Rolling back assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Restoring event log to previous state for source NetFilesService.
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Attempt to stop service NetFilesService.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Uninstalling assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Removing EventLog source NetFilesService.
+Service NetFilesService is being removed from the system...
+Service NetFilesService was successfully removed from the system.
+Installing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe
+Installing service NetFilesService...
+Service NetFilesService has been successfully installed.
+Creating EventLog source NetFilesService in log Application...
+Committing assembly 'C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.InstallLog
+   assemblypath = C:\Users\JenekX\Documents\Visual Studio 2010\Projects\NetFiles\NetFilesService\bin\Debug\NetFilesService.exe

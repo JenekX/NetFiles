@@ -1,0 +1,7 @@
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+c:\users\jenekx\documents\visual studio 2010\Projects\NetFiles\ConsoleApplication1\bin\Debug\app.config
